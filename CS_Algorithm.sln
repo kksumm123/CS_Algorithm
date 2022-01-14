@@ -24,6 +24,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "행렬의덧셈", "행렬�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "핸드폰번호가리기", "핸드폰번호가리기\핸드폰번호가리기.csproj", "{BD33F111-07E4-4925-89FF-2AB9239394FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "하샤드수", "하샤드수\하샤드수.csproj", "{39A1FFA8-F841-4F61-81BB-9EB9979B758D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{BD33F111-07E4-4925-89FF-2AB9239394FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD33F111-07E4-4925-89FF-2AB9239394FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD33F111-07E4-4925-89FF-2AB9239394FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A1FFA8-F841-4F61-81BB-9EB9979B758D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A1FFA8-F841-4F61-81BB-9EB9979B758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A1FFA8-F841-4F61-81BB-9EB9979B758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A1FFA8-F841-4F61-81BB-9EB9979B758D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +76,7 @@ Global
 		{6E4B9783-C9A0-4AEA-B0B9-543ED56BB659} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{D82F7138-5651-4BE0-8C70-6A49D564370A} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{BD33F111-07E4-4925-89FF-2AB9239394FF} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{39A1FFA8-F841-4F61-81BB-9EB9979B758D} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
