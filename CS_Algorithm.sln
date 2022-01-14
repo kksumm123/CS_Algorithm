@@ -28,6 +28,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "하샤드수", "하샤드�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "평균구하기", "평균구하기\평균구하기.csproj", "{C295CED6-1343-450C-BEEE-2D166113F8BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "콜라츠추측", "콜라츠추측\콜라츠추측.csproj", "{00338C43-7F8A-4ACC-9637-14614B2DAD62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,6 +72,10 @@ Global
 		{C295CED6-1343-450C-BEEE-2D166113F8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C295CED6-1343-450C-BEEE-2D166113F8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C295CED6-1343-450C-BEEE-2D166113F8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00338C43-7F8A-4ACC-9637-14614B2DAD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00338C43-7F8A-4ACC-9637-14614B2DAD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00338C43-7F8A-4ACC-9637-14614B2DAD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00338C43-7F8A-4ACC-9637-14614B2DAD62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +90,7 @@ Global
 		{BD33F111-07E4-4925-89FF-2AB9239394FF} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{39A1FFA8-F841-4F61-81BB-9EB9979B758D} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{C295CED6-1343-450C-BEEE-2D166113F8BE} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{00338C43-7F8A-4ACC-9637-14614B2DAD62} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
