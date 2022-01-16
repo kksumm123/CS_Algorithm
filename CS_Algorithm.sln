@@ -36,6 +36,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "다음 큰 숫자", "다음
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "최대공약수와최소공배수", "최대공약수와최소공배수\최대공약수와최소공배수.csproj", "{010C1F49-B3AB-4932-AB52-6413C662CA31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "짝수와 홀수", "짝수와 홀수\짝수와 홀수.csproj", "{6BAD1783-B1F0-4481-B567-5CC0B1182C08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,6 +92,10 @@ Global
 		{010C1F49-B3AB-4932-AB52-6413C662CA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{010C1F49-B3AB-4932-AB52-6413C662CA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{010C1F49-B3AB-4932-AB52-6413C662CA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAD1783-B1F0-4481-B567-5CC0B1182C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAD1783-B1F0-4481-B567-5CC0B1182C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAD1783-B1F0-4481-B567-5CC0B1182C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAD1783-B1F0-4481-B567-5CC0B1182C08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -107,6 +113,7 @@ Global
 		{00338C43-7F8A-4ACC-9637-14614B2DAD62} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{998CF7AE-1081-4FE0-B510-7E5CE40C1099} = {FE05A6E2-6395-4C83-B330-417F2A83E6CE}
 		{010C1F49-B3AB-4932-AB52-6413C662CA31} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{6BAD1783-B1F0-4481-B567-5CC0B1182C08} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
