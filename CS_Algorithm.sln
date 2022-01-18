@@ -42,9 +42,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "제일작은수제거하기
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "정수 제곱근 판별", "정수 제곱근 판별\정수 제곱근 판별.csproj", "{3137BE86-6188-49E4-B317-9EF2C5260E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "정수내림차순으로배치하기", "정수내림차순으로배치하기\정수내림차순으로배치하기.csproj", "{CE584881-9660-4201-9571-574BC84272CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "정수내림차순으로배치하기", "정수내림차순으로배치하기\정수내림차순으로배치하기.csproj", "{CE584881-9660-4201-9571-574BC84272CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "자연수뒤집어배열로만들기", "자연수뒤집어배열로만들기\자연수뒤집어배열로만들기.csproj", "{83CD5308-29AB-46BF-89F5-A356C59C1C99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "자연수뒤집어배열로만들기", "자연수뒤집어배열로만들기\자연수뒤집어배열로만들기.csproj", "{83CD5308-29AB-46BF-89F5-A356C59C1C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "자릿수더하기", "자릿수더하기\자릿수더하기.csproj", "{09ADE18F-2017-4B2B-9FE2-326F7A62013F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -120,6 +122,10 @@ Global
 		{83CD5308-29AB-46BF-89F5-A356C59C1C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83CD5308-29AB-46BF-89F5-A356C59C1C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83CD5308-29AB-46BF-89F5-A356C59C1C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09ADE18F-2017-4B2B-9FE2-326F7A62013F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09ADE18F-2017-4B2B-9FE2-326F7A62013F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09ADE18F-2017-4B2B-9FE2-326F7A62013F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09ADE18F-2017-4B2B-9FE2-326F7A62013F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -142,6 +148,7 @@ Global
 		{3137BE86-6188-49E4-B317-9EF2C5260E41} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{CE584881-9660-4201-9571-574BC84272CC} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{83CD5308-29AB-46BF-89F5-A356C59C1C99} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{09ADE18F-2017-4B2B-9FE2-326F7A62013F} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
