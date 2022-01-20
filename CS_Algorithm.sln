@@ -48,6 +48,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "자연수뒤집어배열로
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "자릿수더하기", "자릿수더하기\자릿수더하기.csproj", "{09ADE18F-2017-4B2B-9FE2-326F7A62013F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "이상한문자만들기", "이상한문자만들기\이상한문자만들기.csproj", "{F6254B31-531B-4F3A-BF7C-F3263919D615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,6 +128,10 @@ Global
 		{09ADE18F-2017-4B2B-9FE2-326F7A62013F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09ADE18F-2017-4B2B-9FE2-326F7A62013F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09ADE18F-2017-4B2B-9FE2-326F7A62013F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6254B31-531B-4F3A-BF7C-F3263919D615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6254B31-531B-4F3A-BF7C-F3263919D615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6254B31-531B-4F3A-BF7C-F3263919D615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6254B31-531B-4F3A-BF7C-F3263919D615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,7 @@ Global
 		{CE584881-9660-4201-9571-574BC84272CC} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{83CD5308-29AB-46BF-89F5-A356C59C1C99} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{09ADE18F-2017-4B2B-9FE2-326F7A62013F} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{F6254B31-531B-4F3A-BF7C-F3263919D615} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
