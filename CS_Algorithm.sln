@@ -50,9 +50,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "자릿수더하기", "자�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "이상한문자만들기", "이상한문자만들기\이상한문자만들기.csproj", "{F6254B31-531B-4F3A-BF7C-F3263919D615}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "약수의 합", "약수의 합\약수의 합.csproj", "{D5F031C1-F020-489C-AD3F-1941D52DE52B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "약수의 합", "약수의 합\약수의 합.csproj", "{D5F031C1-F020-489C-AD3F-1941D52DE52B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "시저 암호", "시저 암호\시저 암호.csproj", "{3175AF46-E9EA-435B-9BEE-ED7129E2FF8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "시저 암호", "시저 암호\시저 암호.csproj", "{3175AF46-E9EA-435B-9BEE-ED7129E2FF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자열을 정수로 바꾸기", "문자열을 정수로 바꾸기\문자열을 정수로 바꾸기.csproj", "{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -144,6 +146,10 @@ Global
 		{3175AF46-E9EA-435B-9BEE-ED7129E2FF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3175AF46-E9EA-435B-9BEE-ED7129E2FF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3175AF46-E9EA-435B-9BEE-ED7129E2FF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -170,6 +176,7 @@ Global
 		{F6254B31-531B-4F3A-BF7C-F3263919D615} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{D5F031C1-F020-489C-AD3F-1941D52DE52B} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{3175AF46-E9EA-435B-9BEE-ED7129E2FF8B} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
