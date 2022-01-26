@@ -54,9 +54,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "약수의 합", "약수의 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "시저 암호", "시저 암호\시저 암호.csproj", "{3175AF46-E9EA-435B-9BEE-ED7129E2FF8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자열을 정수로 바꾸기", "문자열을 정수로 바꾸기\문자열을 정수로 바꾸기.csproj", "{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "문자열을 정수로 바꾸기", "문자열을 정수로 바꾸기\문자열을 정수로 바꾸기.csproj", "{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "수박수박수", "수박수박수\수박수박수.csproj", "{9B41153F-6E77-447E-B6AB-EAB769267DEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "수박수박수", "수박수박수\수박수박수.csproj", "{9B41153F-6E77-447E-B6AB-EAB769267DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "소수찾기", "소수찾기\소수찾기.csproj", "{1A9941DB-4696-49EC-BB35-DBDA5F04A1AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -156,6 +158,10 @@ Global
 		{9B41153F-6E77-447E-B6AB-EAB769267DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B41153F-6E77-447E-B6AB-EAB769267DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B41153F-6E77-447E-B6AB-EAB769267DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9941DB-4696-49EC-BB35-DBDA5F04A1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9941DB-4696-49EC-BB35-DBDA5F04A1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9941DB-4696-49EC-BB35-DBDA5F04A1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9941DB-4696-49EC-BB35-DBDA5F04A1AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -184,6 +190,7 @@ Global
 		{3175AF46-E9EA-435B-9BEE-ED7129E2FF8B} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{9B41153F-6E77-447E-B6AB-EAB769267DEE} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{1A9941DB-4696-49EC-BB35-DBDA5F04A1AC} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
