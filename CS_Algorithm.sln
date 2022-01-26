@@ -56,6 +56,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "시저 암호", "시저 암
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자열을 정수로 바꾸기", "문자열을 정수로 바꾸기\문자열을 정수로 바꾸기.csproj", "{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "수박수박수", "수박수박수\수박수박수.csproj", "{9B41153F-6E77-447E-B6AB-EAB769267DEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,6 +152,10 @@ Global
 		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B41153F-6E77-447E-B6AB-EAB769267DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B41153F-6E77-447E-B6AB-EAB769267DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B41153F-6E77-447E-B6AB-EAB769267DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B41153F-6E77-447E-B6AB-EAB769267DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -177,6 +183,7 @@ Global
 		{D5F031C1-F020-489C-AD3F-1941D52DE52B} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{3175AF46-E9EA-435B-9BEE-ED7129E2FF8B} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{E5A6E094-AC2B-40AE-8F89-4826E9AB788C} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{9B41153F-6E77-447E-B6AB-EAB769267DEE} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
