@@ -68,6 +68,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자열 내림차순으�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자열 내 마음대로 정렬하기", "문자열 내 마음대로 정렬하기\문자열 내 마음대로 정렬하기.csproj", "{276AE77F-AE97-4623-8877-3B23C85176E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "두 정수 사이의 합", "두 정수 사이의 합\두 정수 사이의 합.csproj", "{6F9EA5E0-7634-484E-8B61-9D892E9479C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,6 +188,10 @@ Global
 		{276AE77F-AE97-4623-8877-3B23C85176E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{276AE77F-AE97-4623-8877-3B23C85176E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{276AE77F-AE97-4623-8877-3B23C85176E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9EA5E0-7634-484E-8B61-9D892E9479C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9EA5E0-7634-484E-8B61-9D892E9479C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9EA5E0-7634-484E-8B61-9D892E9479C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9EA5E0-7634-484E-8B61-9D892E9479C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -219,6 +225,7 @@ Global
 		{DE88FB13-5B69-4A76-82B6-2487B521A577} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{81169C74-A0DD-41D5-ACFA-4969FFBF7985} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{276AE77F-AE97-4623-8877-3B23C85176E7} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{6F9EA5E0-7634-484E-8B61-9D892E9479C9} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
