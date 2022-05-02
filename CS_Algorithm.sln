@@ -60,15 +60,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "수박수박수", "수박�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "소수찾기", "소수찾기\소수찾기.csproj", "{1A9941DB-4696-49EC-BB35-DBDA5F04A1AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "서울에서 김서방 찾기", "서울에서 김서방 찾기\서울에서 김서방 찾기.csproj", "{10AB9A60-F0A8-437C-B9A1-C683AF5239AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "서울에서 김서방 찾기", "서울에서 김서방 찾기\서울에서 김서방 찾기.csproj", "{10AB9A60-F0A8-437C-B9A1-C683AF5239AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자열 다루기 기본", "문자열 다루기 기본\문자열 다루기 기본.csproj", "{DE88FB13-5B69-4A76-82B6-2487B521A577}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "문자열 다루기 기본", "문자열 다루기 기본\문자열 다루기 기본.csproj", "{DE88FB13-5B69-4A76-82B6-2487B521A577}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자열 내림차순으로 배치하기", "문자열 내림차순으로 배치하기\문자열 내림차순으로 배치하기.csproj", "{81169C74-A0DD-41D5-ACFA-4969FFBF7985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "문자열 내림차순으로 배치하기", "문자열 내림차순으로 배치하기\문자열 내림차순으로 배치하기.csproj", "{81169C74-A0DD-41D5-ACFA-4969FFBF7985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자열 내 마음대로 정렬하기", "문자열 내 마음대로 정렬하기\문자열 내 마음대로 정렬하기.csproj", "{276AE77F-AE97-4623-8877-3B23C85176E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "문자열 내 마음대로 정렬하기", "문자열 내 마음대로 정렬하기\문자열 내 마음대로 정렬하기.csproj", "{276AE77F-AE97-4623-8877-3B23C85176E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "두 정수 사이의 합", "두 정수 사이의 합\두 정수 사이의 합.csproj", "{6F9EA5E0-7634-484E-8B61-9D892E9479C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "두 정수 사이의 합", "두 정수 사이의 합\두 정수 사이의 합.csproj", "{6F9EA5E0-7634-484E-8B61-9D892E9479C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "나누어 떨어지는 숫자 배열", "나누어 떨어지는 숫자 배열\나누어 떨어지는 숫자 배열.csproj", "{E466BC3D-F49B-4258-A0D8-14D8053365FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -192,6 +194,10 @@ Global
 		{6F9EA5E0-7634-484E-8B61-9D892E9479C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F9EA5E0-7634-484E-8B61-9D892E9479C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F9EA5E0-7634-484E-8B61-9D892E9479C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E466BC3D-F49B-4258-A0D8-14D8053365FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E466BC3D-F49B-4258-A0D8-14D8053365FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E466BC3D-F49B-4258-A0D8-14D8053365FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E466BC3D-F49B-4258-A0D8-14D8053365FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -226,6 +232,7 @@ Global
 		{81169C74-A0DD-41D5-ACFA-4969FFBF7985} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{276AE77F-AE97-4623-8877-3B23C85176E7} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{6F9EA5E0-7634-484E-8B61-9D892E9479C9} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{E466BC3D-F49B-4258-A0D8-14D8053365FA} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
