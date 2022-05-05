@@ -76,6 +76,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "가운데 글자 가져오�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "부족한 금액 계산하기", "부족한 금액 계산하기\부족한 금액 계산하기.csproj", "{A4A9C561-2301-4119-8B74-6C2FD6A6F1BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "나머지가 1이 되는 수 찾기", "나머지가 1이 되는 수 찾기\나머지가 1이 되는 수 찾기.csproj", "{07A6891A-A3C6-4527-861E-7021C8DF7D30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -210,6 +212,10 @@ Global
 		{A4A9C561-2301-4119-8B74-6C2FD6A6F1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4A9C561-2301-4119-8B74-6C2FD6A6F1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4A9C561-2301-4119-8B74-6C2FD6A6F1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A6891A-A3C6-4527-861E-7021C8DF7D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A6891A-A3C6-4527-861E-7021C8DF7D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A6891A-A3C6-4527-861E-7021C8DF7D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A6891A-A3C6-4527-861E-7021C8DF7D30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -247,6 +253,7 @@ Global
 		{E466BC3D-F49B-4258-A0D8-14D8053365FA} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{87494987-EEAA-4C55-A64D-C9524804F8E7} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 		{A4A9C561-2301-4119-8B74-6C2FD6A6F1BA} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
+		{07A6891A-A3C6-4527-861E-7021C8DF7D30} = {C4DCB784-6E8F-4EB1-B745-CDA90C7240BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33EB8D16-8E0C-4055-9D1F-04C0EF1C89FC}
